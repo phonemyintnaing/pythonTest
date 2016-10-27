@@ -1,0 +1,4 @@
+#py notes 
+
+
+#run python from vim => [ :!python % <CR>]  , <CR> current line
